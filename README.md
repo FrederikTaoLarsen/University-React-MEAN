@@ -1,1 +1,1 @@
-# University-React-MEAN
+MEAN
